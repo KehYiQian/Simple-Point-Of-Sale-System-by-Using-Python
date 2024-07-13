@@ -1,0 +1,5 @@
+   A01       A4paper(500sheets)	           RM 10.40
+   B02       Pen(1pcs)                     RM  4.50
+   C03       Pencil(12pcs)                 RM  2.85
+   D04       Eraser(1pcs)                  RM  1.12
+   E05       Correctiontape(1pcs)          RM  3.19 
